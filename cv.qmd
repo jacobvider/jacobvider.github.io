@@ -1,3 +1,14 @@
 ---
 title: "CV"
 ---
+<style>
+.myclass {
+  max-width: 100%;
+  width: 600px;
+  height: 600px;
+  border: 10px solid rgba(200,0,0,.2);
+  margin: 0;
+}
+</style>
+{{< pdf https://drive.google.com/file/d/1TdNnnglpsJdQsR45BOE_aGPPudr42Sdw/view?usp=sharing class=myclass >}}
+
