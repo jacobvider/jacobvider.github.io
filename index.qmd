@@ -1,5 +1,5 @@
 ---
-title: "jacob website"
+title: "Hello"
 ---
 
-Hello. Welcome to my website!
+Welcome to my website!
