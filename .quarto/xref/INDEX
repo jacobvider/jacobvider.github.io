@@ -4,5 +4,23 @@
   },
   "index.qmd": {
     "index.html": "85085d9d"
+  },
+  "currentresearch.qmd": {
+    "currentresearch.html": "57c7e2ef"
+  },
+  "cv.qmd": {
+    "cv.html": "0a3fc1bc"
+  },
+  "outreach.qmd": {
+    "outreach.html": "3c1c5f96"
+  },
+  "pastresearch.qmd": {
+    "pastresearch.html": "40167d1e"
+  },
+  "research.qmd": {
+    "research.html": "16d214da"
+  },
+  "projects.qmd": {
+    "projects.html": "582a7970"
   }
 }

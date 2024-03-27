@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello",
-    "section": "",
-    "text": "Welcome to my website!"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello",
+    "section": "",
+    "text": "Welcome to my website! My name is Jacob Vider. I recently graduated with a dual degree BA/BA in Physics and Applied Physics from Clark University and Columbia University’s School of Engineering and Applied Science (SEAS). Currently, I’m doing post-bacc research in the University of Arizona’s Steward Observatory under Dr. Erika Hamden."
   }
 ]
