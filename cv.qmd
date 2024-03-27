@@ -10,5 +10,5 @@ title: "CV"
   margin: 0;
 }
 </style>
-{{< pdf https://drive.google.com/file/d/1TdNnnglpsJdQsR45BOE_aGPPudr42Sdw/view?usp=sharing class=myclass >}}
+{{< pdf https://drive.google.com/file/d/1alsXMaRpkXDqh36IR209o5bk4-ShTAmz/view?usp=sharing class=myclass >}}
 
