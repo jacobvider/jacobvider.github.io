@@ -2,7 +2,7 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "",
     "section": "",
     "text": "Download PDF file."
   },
@@ -16,8 +16,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello",
+    "title": "",
     "section": "",
-    "text": "Welcome to my website! \nCheck out my research and scientific outreach."
+    "text": "Hi! I’m Jacob Vider\n\n\n\n\n\n\nI have a BA/BSc in Physics and Applied Physics from Clark University and Columbia University’s School of Engineering and Applied Science (SEAS).\nCurrently, I’m doing postgraduate research in the University of Arizona’s Steward Observatory.\nCheck out my research exerience and scientific outreach."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "",
+    "section": "",
+    "text": "Observing transients in the near-UV\ndates: Feb 2024 - Present\n\nSuper-LOTIS is a NSF funded ground-based telescope located at Kitt Peak National Observatory (KPNO), in Tucson, Arizona. We are adapting the telescope to observe transients in the near-UV (300-400 nm) and optical (400-700 nm) wavelengths. As a part of this adaptation process, the telescope mirrors are recoated, the optical camera is replaced with an NUV CCD camera, and UV and optical filters are utilized during observations. I am developing an integrated software control system for instantaneous remote control of the Princeton Instruments PIXIS NUV CCD camera. I have also evaluated the filter transmission curves for five filters in the U,V,B and R bands. The telescope will be used to follow-up on targets observed by the UV and Optical Telescope (UVOT) on NASA’s Neil Gehrels Swift Observatory, and collect new transient data.\n\n\nAspera Instrument Simulator\ndates: Oct 2023 - July 2024\nAspera is a NASA-funded space-based SmallSat mission which will be launched in late 2025. It will be observing OVI emissions in the circumgalactic mediums (CGMs) of 10-20 low-redshift galaxies, in the UV range. I contributed to a software instrument simulator that generated mock Aspera observations, in order to test and improve the Aspera data reduction pipeline.\n\n\nSupermassive Black Hole Binary Systems (SBHBS)\ndates: Aug 2022 - Aug 2023\nI simulated light curves extracted from time-domain surveys, primarily the Catalina Real-time Transient Survey and the Palomar Transient Factory. My code utilized the Lomb-Scargle periodogram, an extension of the Fourier technique, to model periodic signals in unevenly-sampled and evenly-sampled data. I varied parameters of the injected sinusoidal to see how the peak of the periodogram was affected, modeled aliasing that occurs due to the false transfer of power to other frequencies, and looked at the false alarm probability. We were also interested in modeling quasar variability using the Damped Random Walk (DRW), and I created plots of the Power Spectral Density (PSD) of the DRW, and explored a variety of DRW parameters.\n\n\nMicro-CHaS: a condensed IFU spectrograph\ndates: May 2022 - Aug 2022\nThe Circumgalactic H-alpha Spectrograph (CHaS) is an IFU spectrograph that looks at the circumgalactic medium (CGM) of near-low redshift galaxies in the UV. We developed a micro-CHaS, a condensed IFU spectrograph composed partially of 3D printed materials. The components were designed in AutoCAD, and the prototype was tested in a dark room, shining lasers with different wavelengths and different colored filters into a calibration telescope and spectrograph-setup, and identifying the laser’s associated spectral lines. One of the components of our spectrograph was a lenslet array, which we evaluated separately, looking for chromatic aberrations in the final image and re-prototyping several times. This prototype was also tested with the Meade Schmidt-Cassegrain telescope at the Rutherford Observatory on the campus of Columbia University, where distinct features of the Ring and Eagle Nebulaes were observed.\n\n\nSRT reconstruction\ndates: May 2021 - Aug 2021\nThe Small Radio Telescope (SRT) was a 3-meter diameter parabolic satellite dish, with a digital receiver that uses low pass filters, amplifiers, mixers, and a local oscillator to refine the received frequency. We replaced parts of the mesh satellite dish, replaired the chain inside of the azimuth motor mount, the arm of the linear actuator, and the internal wiring. I also fixed the telescope’s interactive sky map, tracking feature, and manual azimuth and elevation controls. We tested the interactive sky map and track feature by tracking the motion of the moon.\n\n\nModeling real-time 3D flow\ndates: April 2020 - Aug 2020\nA variety of existing computational methods are used to model two-dimensional streamlines, but simulating three-dimensional structure is necessarily more challenging. Computational methods that capture three-dimensional flow patterns throughout the entire region, while maximizing signal to noise ratio, continue to be an active area of research. I wrote Matlab code that reconstructed a three dimensional object from two dimensional images, using a computer vision technique called Structure from Motion (SfM). The object is filmed from two different angles, and my code identifies key structural points in each image viewset using a minimum eigenvalue algorithm. It saves location data of these points, in relation to the position of their respective cameras. Working remotely due to the pandemic, I tested my code in my bedroom with two cheap cameras that I had bought online, and a metal ring which hung off a piece of cardboard on my desk and swung in a pendulum motion. I streamed two live videos of the ring from two different angles, and was able to create a dense reconstruction point cloud of the initial object. My code was later used by a graduate student in the lab to model three-dimensional streamlines in water."
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "",
+    "section": "",
+    "text": "[under construction!]"
   }
 ]

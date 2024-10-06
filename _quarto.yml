@@ -6,20 +6,23 @@ website:
   search: false
   navbar:
     left:
-      - href: index.qmd
-        text: About Me
-      - research.qmd
-      - outreach.qmd
-      - projects.qmd
-      - cv.qmd
+      - text: Hi!
+        href: index.qmd
+      - text: research
+        href: research.qmd
+      - text: outreach
+        href: outreach.qmd
+      - text: CV
+        href: cv.qmd
 
 
 
 format:
   html:
-    theme: slate
+    theme: yeti
     css: styles.css
     toc: true
 
+# https://github.com/cgoo4/quantumjitter
 
 
