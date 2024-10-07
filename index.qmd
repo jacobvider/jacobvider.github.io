@@ -1,11 +1,13 @@
 ---
 title: ""
 ---
-<h2>Hi! I'm Jacob Vider<h2>
+<h1> Hi! I'm Jacob Vider <h1> 
 ![](profile_picture.jpg){fig-align="left" width=250}
 
-I have a BA/BSc in Physics and Applied Physics from [Clark University](https://www.clarku.edu/) and [Columbia University's School of Engineering and Applied Science (SEAS)](https://www.engineering.columbia.edu/home-eng).
 
-Currently, I'm doing postgraduate research in the University of Arizona's [Steward Observatory](https://www.as.arizona.edu/research). 
 
-Check out my [research exerience](research.qmd) and [scientific outreach](outreach.qmd).
+<h5> I have a dual BA/BSc in Physics and Applied Physics from [Clark University](https://www.clarku.edu/) and [Columbia University's School of Engineering and Applied Science (SEAS)](https://www.engineering.columbia.edu/home-eng).
+
+Currently, I'm doing postgraduate research at the University of Arizona's [Steward Observatory](https://www.as.arizona.edu/research). 
+
+Check out my [research experience](research.qmd) and [scientific outreach](outreach.qmd).<h5>

@@ -20,6 +20,8 @@ website:
 format:
   html:
     theme: yeti
+      # light: yeti
+      # dark: [yeti, theme-dark.scss]
     css: styles.css
     toc: true
 

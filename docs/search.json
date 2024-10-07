@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "\nHi! I’m Jacob Vider\n",
     "section": "",
-    "text": "Hi! I’m Jacob Vider\n\n\n\n\n\n\nI have a BA/BSc in Physics and Applied Physics from Clark University and Columbia University’s School of Engineering and Applied Science (SEAS).\nCurrently, I’m doing postgraduate research in the University of Arizona’s Steward Observatory.\nCheck out my research exerience and scientific outreach."
+    "text": "Hi! I’m Jacob Vider\n\n\n\n\n\n\n\nI have a dual BA/BSc in Physics and Applied Physics from Clark University and Columbia University’s School of Engineering and Applied Science (SEAS).\nCurrently, I’m doing postgraduate research at the University of Arizona’s Steward Observatory.\nCheck out my research experience and scientific outreach."
   },
   {
     "objectID": "research.html",
@@ -33,5 +33,12 @@
     "title": "",
     "section": "",
     "text": "[under construction!]"
+  },
+  {
+    "objectID": "index.html#hi-im-jacob-vider",
+    "href": "index.html#hi-im-jacob-vider",
+    "title": "",
+    "section": "",
+    "text": "I have a BA/BSc in Physics and Applied Physics from Clark University and Columbia University’s School of Engineering and Applied Science (SEAS).\nCurrently, I’m doing postgraduate research in the University of Arizona’s Steward Observatory.\nCheck out my research experience and scientific outreach."
   }
 ]
