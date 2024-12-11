@@ -1,0 +1,11 @@
+---
+title: ""
+# theme: "yeti"
+---
+
+Relevant physics/astro course that I've taken:
+
+Classical Mechanics - Textbook: Classical Dynamics of Particles and Systems by Stephen Thornton
+Quantum Mechanics - Textbook: Griffiths Ed 2, Griffiths Ed 3, Claude Cohen-Tannoudji
+E&M - Textbook: Griffiths
+
