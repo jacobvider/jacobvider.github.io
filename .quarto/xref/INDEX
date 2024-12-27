@@ -22,5 +22,8 @@
   },
   "projects.qmd": {
     "projects.html": "582a7970"
+  },
+  "courses.qmd": {
+    "courses.html": "6cab65e3"
   }
 }
