@@ -1,8 +1,7 @@
 ---
 title: ""
 ---
-<h1> Hi! I'm Jacob Vider <h1> 
-pronouns: he/him/his
+<h1> Hi! I'm Jacob Vider (he\him\his) <h1> 
 ![](profile_picture.jpg){fig-align="left" width=250}
 
 
