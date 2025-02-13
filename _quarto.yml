@@ -14,8 +14,8 @@ website:
         href: outreach.qmd
       - text: CV
         href: cv.qmd
-      - text: courses.qmd
-        href: courses
+      - text: courses
+        href: courses.qmd
 
 
 

@@ -6,7 +6,6 @@ title: ""
 ### Observing transients in the near-UV 
 dates: Feb 2024 - Present
 
-
 ![](superlotis_1991.jpg)
 
 Super-LOTIS is a NSF funded ground-based telescope located at Kitt Peak National Observatory (KPNO), in Tucson, Arizona. 

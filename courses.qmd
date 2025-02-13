@@ -5,6 +5,8 @@ title: ""
 
 Physics/astro textbooks that I've used:
 
-Classical Mechanics - Textbook: Classical Dynamics of Particles and Systems by Stephen Thornton
-Quantum Mechanics - Textbook: Griffiths Ed 2, Griffiths Ed 3, Claude Cohen-Tannoudji
-E&M - Textbook: Griffiths
+1. Classical Mechanics - Textbook: Classical Dynamics of Particles and Systems by Stephen Thornton
+
+2. Quantum Mechanics - Textbook: Griffiths Ed 2, Griffiths Ed 3, Claude Cohen-Tannoudji
+
+3. E&M - Textbook: Griffiths
