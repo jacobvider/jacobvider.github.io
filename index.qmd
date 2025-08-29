@@ -1,10 +1,8 @@
 ---
 title: ""
 ---
-<h2> Hi! I'm Jacob <h2> 
+<h2> Hi! I'm Jacob Vider <h2> 
 ![](profile_picture.jpg){fig-align="left" width=250}
-
-
 
 <h5> I'm a first-year Astronomy PhD student, at the University of Maryland. Previously, I conducted postgraduate research at the University of Arizona's [Steward Observatory](https://www.as.arizona.edu/research). 
 I have a dual BA/BSc in Physics and Applied Physics from [Clark University](https://www.clarku.edu/) and [Columbia University's School of Engineering and Applied Science (SEAS)](https://www.engineering.columbia.edu/home-eng).
