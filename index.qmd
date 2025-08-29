@@ -1,7 +1,7 @@
 ---
 title: ""
 ---
-<h1> Hi! I'm Jacob Vider (he\him\his) <h1> 
+<h2> Hi! I'm Jacob Vider <h2> 
 ![](profile_picture.jpg){fig-align="left" width=250}
 
 
