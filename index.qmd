@@ -1,9 +1,9 @@
 ---
 title: ""
 ---
-<h2> Hi! I'm Jacob Vider (he/him/his) <h2> 
+<h2> Hi! I'm Jacob Vider (he/him/his) </h2> 
 ![](profile_picture.jpg){fig-align="left" width=250}
 
 <h5> I am broadly interested in studying transients, signal processing and developing astronomical instrumentation. I have a BSc in Physics from Columbia University's School of Engineering.
 
-Check out my [research experience](research.qmd) and [scientific outreach](outreach.qmd).<h5>
+Check out my [research experience](research.qmd) and [scientific outreach](outreach.qmd).</h5>
