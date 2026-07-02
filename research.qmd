@@ -10,12 +10,6 @@ Scientific software development and transient astronomy.
 
 ---
 
-## University of Maryland
-
-Astronomy PhD research involving spectroscopy and instrumentation.
-
----
-
 ## University of Arizona
 
 Detector calibration, UV instrumentation, and laboratory characterization.
