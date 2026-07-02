@@ -1,0 +1,9 @@
+---
+title: Contact
+---
+
+# Contact
+
+- **Email:** your_email@example.com
+- **GitHub:** https://github.com/jacobvider
+- **LinkedIn:** (optional)
