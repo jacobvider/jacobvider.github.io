@@ -1,32 +1,31 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  search: false
+  title: "Jacob Vider"
+
   navbar:
     left:
-      - text: Hi!
-        href: index.qmd
-      - text: research
-        href: research.qmd
-      - text: outreach
-        href: outreach.qmd
-      - text: CV
-        href: cv.qmd
-      - text: courses
-        href: courses.qmd
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
 
-
+    right:
+      - icon: github
+        href: https://github.com/jacobvider
 
 format:
   html:
-    theme: yeti
-      # light: yeti
-      # dark: [yeti, theme-dark.scss]
+    theme: cosmo
     css: styles.css
-    toc: true
-
-# https://github.com/cgoo4/quantumjitter
-
-
+    toc: false
+    smooth-scroll: true
