@@ -1,3 +1,33 @@
 ---
 title: "Projects"
 ---
+
+# Projects
+
+## Image Processing Pipeline
+
+Scientific image reduction software for astronomical detectors.
+
+---
+
+## Gaussian Deconvolution
+
+Signal restoration techniques for CCD imaging.
+
+---
+
+## Spectroscopy Software
+
+Laboratory analysis of UV and optical filters.
+
+---
+
+## Time-Series Analysis
+
+Astronomical variability studies using statistical models.
+
+---
+
+## Scientific Python Tools
+
+Open-source utilities for astronomy and data analysis.
