@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Scientific software development and transient astronomy.\n\n\n\n\nDetector calibration, UV instrumentation, and laboratory characterization.\n\n\n\n\nTime-domain astronomy and computational astrophysics.\n\n\n\n\nComputational biology and large-scale data analysis."
+    "text": "Scientific software development and transient astronomy."
   },
   {
     "objectID": "research.html#nasa-goddard-space-flight-center",
@@ -17,29 +17,29 @@
     "objectID": "research.html#university-of-arizona",
     "href": "research.html#university-of-arizona",
     "title": "Research",
-    "section": "",
-    "text": "Detector calibration, UV instrumentation, and laboratory characterization."
+    "section": "University of Arizona",
+    "text": "University of Arizona\nDetector calibration, UV instrumentation, and laboratory characterization."
   },
   {
     "objectID": "research.html#columbia-university",
     "href": "research.html#columbia-university",
     "title": "Research",
-    "section": "",
-    "text": "Time-domain astronomy and computational astrophysics."
+    "section": "Columbia University",
+    "text": "Columbia University\nTime-domain astronomy and computational astrophysics."
   },
   {
     "objectID": "research.html#new-york-genome-center",
     "href": "research.html#new-york-genome-center",
     "title": "Research",
-    "section": "",
-    "text": "Computational biology and large-scale data analysis."
+    "section": "New York Genome Center",
+    "text": "New York Genome Center\nComputational biology and large-scale data analysis."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Scientific image reduction software for astronomical detectors.\n\n\n\n\nSignal restoration techniques for CCD imaging.\n\n\n\n\nLaboratory analysis of UV and optical filters.\n\n\n\n\nAstronomical variability studies using statistical models.\n\n\n\n\nOpen-source utilities for astronomy and data analysis."
+    "text": "Scientific image reduction software for astronomical detectors."
   },
   {
     "objectID": "projects.html#image-processing-pipeline",
@@ -52,57 +52,36 @@
     "objectID": "projects.html#gaussian-deconvolution",
     "href": "projects.html#gaussian-deconvolution",
     "title": "Projects",
-    "section": "",
-    "text": "Signal restoration techniques for CCD imaging."
+    "section": "Gaussian Deconvolution",
+    "text": "Gaussian Deconvolution\nSignal restoration techniques for CCD imaging."
   },
   {
     "objectID": "projects.html#spectroscopy-software",
     "href": "projects.html#spectroscopy-software",
     "title": "Projects",
-    "section": "",
-    "text": "Laboratory analysis of UV and optical filters."
+    "section": "Spectroscopy Software",
+    "text": "Spectroscopy Software\nLaboratory analysis of UV and optical filters."
   },
   {
     "objectID": "projects.html#time-series-analysis",
     "href": "projects.html#time-series-analysis",
     "title": "Projects",
-    "section": "",
-    "text": "Astronomical variability studies using statistical models."
+    "section": "Time-Series Analysis",
+    "text": "Time-Series Analysis\nAstronomical variability studies using statistical models."
   },
   {
     "objectID": "projects.html#scientific-python-tools",
     "href": "projects.html#scientific-python-tools",
     "title": "Projects",
-    "section": "",
-    "text": "Open-source utilities for astronomy and data analysis."
+    "section": "Scientific Python Tools",
+    "text": "Scientific Python Tools\nOpen-source utilities for astronomy and data analysis."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jacob Vider",
     "section": "",
-    "text": "I develop scientific software, image-processing pipelines, and statistical methods for astronomy, detector instrumentation, and large-scale data analysis.\nMy research has included detector calibration, spectroscopy, transient astronomy, machine learning, and scientific computing through work at NASA Goddard Space Flight Center, the University of Maryland, the University of Arizona, Columbia University, and the New York Genome Center.\n\n\n\n\nAstronomical Instrumentation\nScientific Computing\nImage Processing\nSignal Processing\nStatistical Inference\nMachine Learning\n\n\n\n\n\n\nPython pipeline for CCD calibration and detector characterization.\n\n\n\nAlgorithms for restoring astronomical imaging data.\n\n\n\nLaboratory measurements of UV/Optical transmission filters.\n\n\n\nVariability analysis using Lomb–Scargle periodograms and Bayesian modeling.\n\n\n\n\nCurrently interested in scientific software engineering, quantitative research, and astronomical instrumentation."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Jacob Vider",
-    "section": "",
-    "text": "Astronomical Instrumentation\nScientific Computing\nImage Processing\nSignal Processing\nStatistical Inference\nMachine Learning"
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Jacob Vider",
-    "section": "",
-    "text": "Python pipeline for CCD calibration and detector characterization.\n\n\n\nAlgorithms for restoring astronomical imaging data.\n\n\n\nLaboratory measurements of UV/Optical transmission filters.\n\n\n\nVariability analysis using Lomb–Scargle periodograms and Bayesian modeling."
-  },
-  {
-    "objectID": "index.html#latest",
-    "href": "index.html#latest",
-    "title": "Jacob Vider",
-    "section": "",
-    "text": "Currently interested in scientific software engineering, quantitative research, and astronomical instrumentation."
+    "text": "Jacob Vider\nPhysicist and instrumentation engineer. I build and test optical, electronic, and software systems for telescopes, from lab prototypes to space-mission data pipelines.\nMost recently I was a Research Assistant at NASA Goddard Space Flight Center, developing the data reduction pipeline for a space-based telescope. Before that, I spent two years in the astronomy instrumentation lab at the University of Arizona, where I led the near-UV upgrade of the Super-LOTIS telescope and wrote first-author work I’m now publishing. I have a dual BA/BSc in Physics and Applied Physics from Clark University and Columbia Engineering."
   },
   {
     "objectID": "courses.html",
@@ -123,7 +102,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact\nEmail: your_email@example.com\nGitHub: https://github.com/jacobvider"
+    "text": "Contact\nEmail: jiv2104@columbia.edu\nGitHub: https://github.com/jacobvider"
   },
   {
     "objectID": "cv.html",
@@ -144,6 +123,6 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Publications\nComing soon."
+    "text": "Vider J., et al. “NUV Observations of transients with the Super-LOTIS ground-based telescope”, Journal of Astronomical Telescopes, Instruments, and Systems (In Preparation)\nVider J., et al. ”Adapting the Super-LOTIS optical telescope for ground-based NUV observations of transients”, Proc. SPIE 13149, Unconventional Imaging, Sensing, and Adaptive Optics 2024, 131491L (16 October 2024); https://doi.org/10.1117/12.3030767"
   }
 ]
