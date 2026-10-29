@@ -10,7 +10,7 @@ title: ""
 
 I develop scientific software, image-processing pipelines, and statistical methods for astronomy, detector instrumentation, and large-scale data analysis.
 
-My research has included detector calibration, spectroscopy, transient astronomy, machine learning, and scientific computing through work at NASA Goddard Space Flight Center, the University of Arizona, Columbia University, the New York Genome Center, Clark University, and Tel Aviv University. 
+My research has included detector calibration, spectroscopy, transient astronomy, machine learning, and scientific computing through work at NASA Goddard Space Flight Center, the University of Maryland, the University of Arizona, Columbia University, and the New York Genome Center.
 
 ## Research Interests
 

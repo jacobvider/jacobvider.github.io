@@ -25,5 +25,11 @@
   },
   "courses.qmd": {
     "courses.html": "6cab65e3"
+  },
+  "contact.qmd": {
+    "contact.html": "9a723210"
+  },
+  "publications.qmd": {
+    "publications.html": "3c4de2b0"
   }
 }

@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Jacob Vider"
@@ -13,8 +12,12 @@ website:
         text: Research
       - href: projects.qmd
         text: Projects
+      - href: publications.qmd
+        text: Publications
       - href: cv.qmd
         text: CV
+      - href: contact.qmd
+        text: Contact
 
     right:
       - icon: github
