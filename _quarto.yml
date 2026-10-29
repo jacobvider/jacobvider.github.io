@@ -13,8 +13,7 @@ website:
         text: Projects
       - href: publications.qmd
         text: Publications
-      - href: cv.qmd
-        text: CV
+ 
 
 
     right:
@@ -23,6 +22,8 @@ website:
       - icon: envelope
         href: mailto:jiv2104@columbia.edu
         aria-label: email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jacob-vider/
 
 format:
   html:
