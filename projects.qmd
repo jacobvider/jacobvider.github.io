@@ -15,6 +15,8 @@ A modular pipeline that automatically analyzes live data from an operational spa
 
 I led a $100K NSF-funded hardware and software upgrade that turned an existing telescope into a remotely operated, robotic system. I wrote the software for camera control, environmental monitoring (pressure and temperature), and communication between components over a TCP/IP client-server architecture. I validated it against simulated hardware before deployment. On the hardware side, I installed instrumentation to stabilize the shutter, constrain camera motion, and monitor pressure. I also measured optical filter performance in the lab and built a Python model of the full system's throughput. I mentored an undergraduate on the team, and the work was presented at two international conferences ([SPIE 2024](https://doi.org/10.1117/12.3030767), AAS 2025). **First-author publication in prep.** 
 
+![](superlotis_1991.jpg){fig-align="left" width=250}
+
 **Tools:** C/C++, Python, Bash, TCP/IP, optical testing
 
 ---
