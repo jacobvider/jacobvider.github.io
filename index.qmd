@@ -4,7 +4,7 @@ title: ""
 
 # Jacob Vider
 
-Hi, I'm Jacob! (he/him/his) <h2> 
+Hi, I'm Jacob! (he/him/his) 
 ![](profile_picture.jpg){fig-align="left" width=250}
 
 
