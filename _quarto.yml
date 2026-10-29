@@ -11,14 +11,18 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
+      - href: publications.qmd
+        text: Publications
       - href: cv.qmd
         text: CV
-      - href: contact.qmd
-        text: Contact
+
 
     right:
       - icon: github
         href: https://github.com/jacobvider
+      - icon: envelope
+        href: mailto:jiv2104@columbia.edu
+        aria-label: email
 
 format:
   html:
