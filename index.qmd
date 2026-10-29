@@ -6,20 +6,13 @@ title: ""
 
 ![](profile_picture.jpg){fig-align="left" width=250}
 
-I have an undergraduate physics degree from [Columbia University's School of Engineering and Applied Science (SEAS)](https://www.engineering.columbia.edu/home-eng).
+I'm a physicist and engineer who builds scientific software and hardware. I have an undergraduate degree in Applied Physics from Columbia.
 
-I build scientific software and hardware.
-Most recently I was a Research Assistant at NASA Goddard Space Flight Center, developing the data reduction pipeline for a space-based telescope. 
-Before that, I spent two years an optics lab at the University of Arizona.
-Check out my [projects](projects.qmd) for more information.
+Most recently, I was a Research Assistant at NASA Goddard Space Flight Center, where I developed the data-processing pipeline for a space telescope. 
+Before that, I spent two years in an optics lab at the University of Arizona, leading the software and hardware upgrade of a robotic telescope.
 
-<style>
-.myclass {
-  max-width: 100%;
-  width: 600px;
-  height: 600px;
-  border: 10px solid rgba(200,0,0,.2);
-  margin: 0;
-}
-</style>
-{{< pdf https://drive.google.com/file/d/13lBYExRXDENBM-nYClgpxorgocrQumGo/view?usp=sharing >}}
+Check out my [projects](projects.qmd) to see more of my work.
+
+[Here's my CV](https://drive.google.com/file/d/13lBYExRXDENBM-nYClgpxorgocrQumGo/view?usp=sharing)
+
+<iframe src="https://drive.google.com/file/d/13lBYExRXDENBM-nYClgpxorgocrQumGo/preview" width="100%" height="800" style="border: none;"></iframe>
