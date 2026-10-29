@@ -4,41 +4,7 @@ title: ""
 
 # Jacob Vider
 
-### Computational Physicist • Scientific Software Engineer • Quantitative Research
+Physicist and instrumentation engineer. I build and test optical, electronic, and software systems for telescopes, from lab prototypes to space-mission data pipelines.
 
-![](profile_picture.jpg){width=250 fig-align="right"}
-
-I develop scientific software, image-processing pipelines, and statistical methods for astronomy, detector instrumentation, and large-scale data analysis.
-
-My research has included detector calibration, spectroscopy, transient astronomy, machine learning, and scientific computing through work at NASA Goddard Space Flight Center, the University of Maryland, the University of Arizona, Columbia University, and the New York Genome Center.
-
-## Research Interests
-
-- Astronomical Instrumentation
-- Scientific Computing
-- Image Processing
-- Signal Processing
-- Statistical Inference
-- Machine Learning
-
-## Featured Projects
-
-### Detector Calibration Pipeline
-
-Python pipeline for CCD calibration and detector characterization.
-
-### Gaussian Deconvolution
-
-Algorithms for restoring astronomical imaging data.
-
-### Spectroscopic Analysis
-
-Laboratory measurements of UV/Optical transmission filters.
-
-### Time-Series Astronomy
-
-Variability analysis using Lomb–Scargle periodograms and Bayesian modeling.
-
-## Latest
-
-Currently interested in scientific software engineering, quantitative research, and astronomical instrumentation.
+Most recently I was a Research Assistant at NASA Goddard Space Flight Center, developing the data reduction pipeline for a space-based telescope. 
+Before that, I spent two years in the astronomy instrumentation lab at the University of Arizona, where I led the near-UV upgrade of the Super-LOTIS telescope and wrote first-author work I’m now publishing. I have a dual BA/BSc in Physics and Applied Physics from Clark University and Columbia Engineering.

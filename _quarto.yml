@@ -9,12 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
       - href: projects.qmd
         text: Projects
-      - href: publications.qmd
-        text: Publications
       - href: cv.qmd
         text: CV
       - href: contact.qmd
@@ -26,7 +22,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: false
     smooth-scroll: true

@@ -1,7 +1,9 @@
 ---
 title: Publications
 ---
+1. Vider J., et al. "NUV Observations of transients with the Super-LOTIS ground-based telescope”, Journal of
+Astronomical Telescopes, Instruments, and Systems (In Preparation)
 
-# Publications
-
-Coming soon.
+2. Vider J., et al. ”Adapting the Super-LOTIS optical telescope for ground-based NUV observations of transients”, Proc.
+SPIE 13149, Unconventional Imaging, Sensing, and Adaptive Optics 2024, 131491L (16 October 2024);
+https://doi.org/10.1117/12.3030767

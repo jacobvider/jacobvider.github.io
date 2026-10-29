@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-# Research Experience
-
 ## NASA Goddard Space Flight Center
 
 Scientific software development and transient astronomy.

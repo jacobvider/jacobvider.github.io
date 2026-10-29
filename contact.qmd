@@ -4,6 +4,6 @@ title: Contact
 
 # Contact
 
-Email: your_email@example.com
+Email: jiv2104@columbia.edu
 
 GitHub: https://github.com/jacobvider

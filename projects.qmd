@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-# Projects
-
 ## Image Processing Pipeline
 
 Scientific image reduction software for astronomical detectors.
