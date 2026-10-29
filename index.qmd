@@ -2,9 +2,8 @@
 title: ""
 ---
 
-# Jacob Vider
+# Hi, I'm Jacob! (he/him/his) 
 
-Hi, I'm Jacob! (he/him/his) 
 ![](profile_picture.jpg){fig-align="left" width=250}
 
 I have a dual BA/BSc in Physics and Applied Physics from [Clark University](https://www.clarku.edu/) and [Columbia University's School of Engineering and Applied Science (SEAS)](https://www.engineering.columbia.edu/home-eng).
