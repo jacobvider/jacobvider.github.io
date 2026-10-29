@@ -7,9 +7,9 @@ title: ""
 Hi, I'm Jacob! (he/him/his) 
 ![](profile_picture.jpg){fig-align="left" width=250}
 
+I have a dual BA/BSc in Physics and Applied Physics from [Clark University](https://www.clarku.edu/) and [Columbia University's School of Engineering and Applied Science (SEAS)](https://www.engineering.columbia.edu/home-eng).
 
 I build software, hardware, and data systems, from first prototype through testing and deployment.
 Most recently I was a Research Assistant at NASA Goddard Space Flight Center, developing the data reduction pipeline for a space-based telescope. 
 Before that, I spent two years in the astronomy instrumentation lab at the University of Arizona.
 Check out my [projects](projects.qmd) for more information.
-I have a dual BA/BSc in Physics and Applied Physics from [Clark University](https://www.clarku.edu/) and [Columbia University's School of Engineering and Applied Science (SEAS)](https://www.engineering.columbia.edu/home-eng).
