@@ -39,63 +39,63 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "NASA Goddard Space Flight Center - 2025–2026\nA modular pipeline that automatically analyzes live data from an operational space telescope with 20+ years of observations. It handles data selection, matching against historical references, image analysis, and validation, and pulls meaningful signals out of noisy data. I found the performance bottlenecks and restructured the algorithms so the pipeline could keep up with long-running streaming datasets, and packaged it with Docker for wider use.\nTools: Python, Docker, Linux"
+    "text": "NASA Goddard Space Flight Center, 2025-2026\nA modular pipeline that automatically analyzes live data from an operational space telescope with 20+ years of observations. It handles data selection, matching against historical references, image analysis, and validation, and pulls meaningful signals out of noisy data. I found the performance bottlenecks and restructured the algorithms so the pipeline could keep up with long-running streaming datasets, and packaged it with Docker for wider use.\nTools: Python, Docker, Linux"
   },
   {
     "objectID": "projects.html#streaming-data-pipeline-and-performance-optimization",
     "href": "projects.html#streaming-data-pipeline-and-performance-optimization",
     "title": "Projects",
     "section": "",
-    "text": "NASA Goddard Space Flight Center - 2025–2026\nA modular pipeline that automatically analyzes live data from an operational space telescope with 20+ years of observations. It handles data selection, matching against historical references, image analysis, and validation, and pulls meaningful signals out of noisy data. I found the performance bottlenecks and restructured the algorithms so the pipeline could keep up with long-running streaming datasets, and packaged it with Docker for wider use.\nTools: Python, Docker, Linux"
+    "text": "NASA Goddard Space Flight Center, 2025-2026\nA modular pipeline that automatically analyzes live data from an operational space telescope with 20+ years of observations. It handles data selection, matching against historical references, image analysis, and validation, and pulls meaningful signals out of noisy data. I found the performance bottlenecks and restructured the algorithms so the pipeline could keep up with long-running streaming datasets, and packaged it with Docker for wider use.\nTools: Python, Docker, Linux"
   },
   {
     "objectID": "projects.html#remote-hardware-control-and-automation-system",
     "href": "projects.html#remote-hardware-control-and-automation-system",
     "title": "Projects",
     "section": "Remote Hardware Control and Automation System",
-    "text": "Remote Hardware Control and Automation System\nUniversity of Arizona, Steward Observatory - 2023–2025\nI led a $100K NSF-funded hardware and software upgrade that turned an existing telescope into a remotely operated, robotic system. I wrote the software for camera control, environmental monitoring (pressure and temperature), and communication between components over a TCP/IP client-server architecture. I validated it against simulated hardware before deployment. On the hardware side, I installed instrumentation to stabilize the shutter, constrain camera motion, and monitor pressure. I also measured optical filter performance in the lab and built a Python model of the full system’s throughput. I mentored an undergraduate on the team, and the work was presented at two international conferences (SPIE 2024, AAS 2025). First-author publication in prep.\n\n\n\n\n\nTools: C/C++, Python, Bash, TCP/IP, optical testing"
+    "text": "Remote Hardware Control and Automation System\nUniversity of Arizona, Steward Observatory, 2023-2025\nI led a $100K NSF-funded hardware and software upgrade that turned an existing telescope into a remotely operated, robotic system. I wrote the software for camera control, environmental monitoring (pressure and temperature), and communication between components over a TCP/IP client-server architecture. I validated it against simulated hardware before deployment. On the hardware side, I installed instrumentation to stabilize the shutter, constrain camera motion, and monitor pressure. I also measured optical filter performance in the lab and built a Python model of the full system’s throughput. I mentored an undergraduate on the team, and the work was presented at two international conferences (SPIE 2024, AAS 2025). First-author publication in prep.\n\n\n\n\n\nTools: C/C++, Python, Bash, TCP/IP, optical testing"
   },
   {
     "objectID": "projects.html#simulation-framework-for-pipeline-validation",
     "href": "projects.html#simulation-framework-for-pipeline-validation",
     "title": "Projects",
     "section": "Simulation Framework for Pipeline Validation",
-    "text": "Simulation Framework for Pipeline Validation\nUniversity of Arizona - 2023–2024\nI built simulated observations for Aspera, a NASA-funded space telescope mission, and used them to test and refine its data reduction pipeline before launch.\nTools: Python, simulation"
+    "text": "Simulation Framework for Pipeline Validation\nUniversity of Arizona, 2023-2024\nI built simulated observations for Aspera, a NASA-funded space telescope mission, and used them to test and refine its data reduction pipeline before launch.\nTools: Python, simulation"
   },
   {
     "objectID": "projects.html#closed-loop-motion-control",
     "href": "projects.html#closed-loop-motion-control",
     "title": "Projects",
     "section": "Closed-Loop Motion Control",
-    "text": "Closed-Loop Motion Control\nNew York Genome Center - 2023\nI helped repurpose a commercial DNA sequencing system into an automated fluorescence microscopy platform. I wrote reusable Python modules for instrument control and data acquisition, and implemented closed-loop PID control for automated positioning, validated by experiment. I also integrated the motion-control hardware, sensors, and data acquisition into one system, and wrote the technical documentation.\nTools: Python, PID control"
+    "text": "Closed-Loop Motion Control\nNew York Genome Center, 2023\nI helped repurpose a commercial DNA sequencing system into an automated fluorescence microscopy platform. I wrote reusable Python modules for instrument control and data acquisition, and implemented closed-loop PID control for automated positioning, validated by experiment. I also integrated the motion-control hardware, sensors, and data acquisition into one system, and wrote the technical documentation.\nTools: Python, PID control"
   },
   {
     "objectID": "projects.html#optical-instrument-prototype",
     "href": "projects.html#optical-instrument-prototype",
     "title": "Projects",
     "section": "Optical Instrument Prototype",
-    "text": "Optical Instrument Prototype\nColumbia University · 2022\nI designed, built, and tested a compact spectrograph from partly 3D-printed parts. We tested it with calibration lasers in a darkroom, went through several redesigns of a lenslet array to reduce optical distortion, and then validated it on a 14” telescope. It won first place for research presentation at Columbia AstroFest.\nTools: SolidWorks/CAD, 3D printing, optical alignment, laser testing"
+    "text": "Optical Instrument Prototype\nColumbia University, 2022\nI designed, built, and tested a compact spectrograph from partly 3D-printed parts. We tested it with calibration lasers in a darkroom, went through several redesigns of a lenslet array to reduce optical distortion, and then validated it on a 14” telescope. It won first place for research presentation at Columbia AstroFest.\nTools: SolidWorks/CAD, 3D printing, optical alignment, laser testing"
   },
   {
     "objectID": "projects.html#signal-detection-in-noisy-time-series-data",
     "href": "projects.html#signal-detection-in-noisy-time-series-data",
     "title": "Projects",
     "section": "Signal Detection in Noisy Time-Series Data",
-    "text": "Signal Detection in Noisy Time-Series Data\nColumbia University · 2022–2023\nI built statistical simulations to detect periodic signals in irregularly sampled, noisy time-series data, and compared the results against real observational data.\nTools: Python, astroML, statistical modeling"
+    "text": "Signal Detection in Noisy Time-Series Data\nColumbia University · 2022-2023\nI built statistical simulations to detect periodic signals in irregularly sampled, noisy time-series data, and compared the results against real observational data.\nTools: Python, astroML, statistical modeling"
   },
   {
     "objectID": "projects.html#embedded-sensor-systems",
     "href": "projects.html#embedded-sensor-systems",
     "title": "Projects",
     "section": "Embedded Sensor Systems",
-    "text": "Embedded Sensor Systems\nClark University · 2020–2021\nI built Arduino and Raspberry Pi sensor and data-acquisition systems, including flowmeters and temperature sensors, for more than 25 experiments, and calibrated sensors and diagnosed electrical faults along the way. I also restored the hardware of a 3-meter radio telescope, working with vendors to source parts, and rewrote its control interface. I tested it by tracking the Moon.\nTools: Arduino, Raspberry Pi, C++, Python, Java"
+    "text": "Embedded Sensor Systems\nClark University, 2020-2021\nI built Arduino and Raspberry Pi sensor and data-acquisition systems, including flowmeters and temperature sensors, for more than 25 experiments, and calibrated sensors and diagnosed electrical faults along the way. I also restored the hardware of a 3-meter radio telescope, working with vendors to source parts, and rewrote its control interface. I tested it by tracking the Moon.\nTools: Arduino, Raspberry Pi, C++, Python, Java"
   },
   {
     "objectID": "projects.html#computer-vision-3d-reconstruction-from-images",
     "href": "projects.html#computer-vision-3d-reconstruction-from-images",
     "title": "Projects",
     "section": "Computer Vision: 3D Reconstruction from Images",
-    "text": "Computer Vision: 3D Reconstruction from Images\nTel Aviv University (remote) · 2020\nI wrote computer-vision code that reconstructs 3D models from 150–200 images, and set up a home lab of cameras and automated, calibrated multi-angle image capture. A graduate student later used the code to model 3D flow in water.\nTools: MATLAB, computer vision, camera calibration"
+    "text": "Computer Vision: 3D Reconstruction from Images\nTel Aviv University (remote), 2020\nI wrote computer-vision code that reconstructs 3D models from 150–200 images, and set up a home lab of cameras and automated, calibrated multi-angle image capture. A graduate student later used the code to model 3D flow in water.\nTools: MATLAB, computer vision, camera calibration"
   },
   {
     "objectID": "index.html",
